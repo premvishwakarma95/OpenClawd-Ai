@@ -16,3 +16,11 @@
 - And open logs in terminal if you get any error give it to claud `openclaw logs --follow` then take suggestion.
 - this is the steps to setup and run any skill. Always use claud.
 
+--
+
+## Need to learn
+- Prompting - Agent.md identidy.md soul.md tool.md - purpose of each file
+- Skills - format ? ex : clawhub CLI . File system skill. 
+- Lobster - > Sequencing pipeline 
+- Memory - QMD
+- paperclip - ABhishek patel sir .
